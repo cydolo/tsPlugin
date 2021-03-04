@@ -1,7 +1,7 @@
 # tsPlugin
 c# based plugins for teamspeak
 
-> for any suggestions create a issue
+> for any suggestions create a issue  
 > current plugins 
 
 Plugin | Description | Thread | Download 
